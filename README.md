@@ -19,7 +19,7 @@
 ### 🧰 Tech Stack
 
 ```text
-Languages:   C | C++ | Assembly (8088) | Python | HTML | CSS | Qt (C++ GUI)
+Languages:   C | C++ | Assembly (8088) | Python | HTML | CSS | Qt (C++ GUI) | SQL
 Tools:       NASM | Qt Creator | Visual Studio | DOSBox | Git & GitHub
 ```
 ### 📦 Projects  
