@@ -4,7 +4,7 @@
 </p>
 <p align="center">
   <b>CS Undergrad @ FAST NUCES</b><br>
-  I code
+  I'm just a guy
 </p>
 
 
