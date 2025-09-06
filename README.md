@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>CS Undergrad @ FAST NUCES</b><br>
-  Building. Breaking. Learning.
+  I code
 </p>
 
 
