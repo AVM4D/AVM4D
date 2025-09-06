@@ -23,7 +23,7 @@
 
 ### 📫 Contact  
 - 📧 Email: [mursaleenahmed55@gmail.com](mailto:mursaleenahmed55@gmail.com)  
-- 🌐 Portfolio: https://ahmad-mursaleen-portfolio.vercel.app/
+- 🌐 Portfolio: https://ahmad-mursaleen.vercel.app/
 
 ---
 
