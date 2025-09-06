@@ -1,5 +1,7 @@
 <h1 align="center">Hi, I'm Ahmad Mursaleen 👋</h1>
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AVM4D&color=blue&style=flat" alt="Profile Views" />
+</p>
 <p align="center">
   <b>CS Undergrad @ FAST NUCES</b><br>
   I code
