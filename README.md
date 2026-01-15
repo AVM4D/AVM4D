@@ -12,15 +12,14 @@
 
 - 🎮 Destroying GNFOS (A Spaceshooter Game) | C++  
 - 🖥️ Yapocalypse (A Social Network App) | C++ and QT Creator
-
+- 🎮 Braking Bad ( A Racing Game ) | Assembly (x86/x88)
 ---
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AVM4D&show_icons=true&theme=radical" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AVM4D&layout=compact&theme=radical" height="160"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=AVM4D&show_icons=true&theme=radical&cache_seconds=1800" height="160"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=AVM4D&layout=compact&theme=radical&cache_seconds=1800" height="160"/>
 </p>
-
 ---
 
 ### 📫 Contact  
